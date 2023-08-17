@@ -1,5 +1,3 @@
-const data = {
-    previousId: undefined,
-};
+const data = {};
 
 export default data;
